@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Car_Seller_Layout_1</fullName>
+    <fields>Name</fields>
+    <fields>Seller_Name__c</fields>
+    <fields>Account__c</fields>
+    <fields>Amount_Due__c</fields>
+    <label>Car Seller Layout 1</label>
+</CompactLayout>
